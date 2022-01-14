@@ -1,1 +1,1 @@
-[![Tim Maas Geesteranus' Github Stats](https://github-readme-stats.vercel.app/api?username=TimMaasGeesteranus&count_private=true&show_icons=true)](https://github.com/TimMaasGeesteranus)
+![Tim Maas Geesteranus' GitHub stats](https://github-readme-stats.vercel.app/api?username=TimMaasGeesteranus&show_icons=true&theme=dark)
